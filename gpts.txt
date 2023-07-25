@@ -1,0 +1,3 @@
+.openai.com
+bard.google.com
+.bing.com
